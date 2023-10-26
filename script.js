@@ -8,6 +8,6 @@ function insert_Row() {
   var cell2 = newRow.insertCell(1);
 
   // Set content for the cells (e.g., text or elements)
-  cell1.innerHTML = "New Cell 1";
-  cell2.innerHTML = "New Cell 2";
+  cell1.innerHTML = "New Cell1";
+  cell2.innerHTML = "New Cell2";
 }
